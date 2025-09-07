@@ -80,3 +80,11 @@ Go to the "Home" tab and click "Get Data."
 Select "SQL Server" and enter the server name and database details.
 Load the data into Power BI and begin creating the dashboard.
 Set up automatic refresh by configuring the dataset to update on a regular schedule.
+
+### Dashboard 
+1. <img width="930" height="524" alt="Screenshot 2025-09-07 222117" src="https://github.com/user-attachments/assets/f614307e-ddeb-4703-9659-c7c01e30d2f2" />
+2.<img width="963" height="541" alt="Screenshot 2025-09-07 222153" src="https://github.com/user-attachments/assets/11d3030e-40dd-4a9a-bc0d-a9cf0036d5dd" />
+3.<img width="951" height="528" alt="Screenshot 2025-09-07 222226" src="https://github.com/user-attachments/assets/62e1af64-aeb9-4256-84a7-6e73094a3984" />
+
+
+
